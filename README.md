@@ -7,6 +7,7 @@ Boxiting설명파일
 * 박소율
 * 어피치
 * 박정우
+* SEO MYUNGIN(^^)
 * 프로도
 * 오동표
 * 김지현
@@ -14,3 +15,4 @@ Boxiting설명파일
 * 박수정
 * Danny
 * 백명숙
+* mongTa
